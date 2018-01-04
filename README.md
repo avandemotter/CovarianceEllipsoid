@@ -1,5 +1,5 @@
 # CovarianceEllipsoid
-'''python
+```python
 import numpy as np
 from numpy import cos, sin, pi
 from numpy import linalg as LA
@@ -49,4 +49,4 @@ ax = fig.add_subplot(111, projection='3d')
 ax.plot_wireframe(x, y, z)
 
 plt.show()
-'''
+```
