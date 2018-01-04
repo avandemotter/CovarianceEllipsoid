@@ -1,4 +1,6 @@
 # CovarianceEllipsoid
+
+## Python
 ```python
 import numpy as np
 from numpy import cos, sin, pi
@@ -50,6 +52,8 @@ ax.plot_wireframe(x, y, z)
 
 plt.show()
 ```
+
+## Matlab
 ```matlab
 Cov = [1 0.5 0.3
        0.5 2 0
